@@ -3,7 +3,7 @@ This is a sample angular project for fetching json data over a http connection. 
 
 The project has been built with Angular V6 and incorporates angular material modules: 
 
-	 MatInputModule,
+	     MatInputModule,
          MatCardModule,
          MatButtonModule,
          MatToolbarModule,
