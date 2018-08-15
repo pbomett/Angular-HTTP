@@ -4,7 +4,7 @@ This is a sample angular project for fetching json data over a http connection. 
 The project has been built with Angular v6.
 
 ### Version
-1.1.0
+1.0
 
 ### Usage
 
